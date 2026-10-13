@@ -1,0 +1,3 @@
+﻿OBS,tfbh,name,ename,is_current,begin_time,end_time,land,time,lng,lat,strong,power,speed,move_dir,move_speed,pressure,radius7,radius10,remark,forecast
+OBS_1,201107,蝎虎,TOKAGE,0,2011-07-15T14:00:00,2011-07-15T14:00:01,[],2011-07-15T14:00:00,133.1,13.8,热带风暴(TS),8,18,东北,15.0,1000,100.0,,,
+OBS_2,201107,蝎虎,TOKAGE,0,2011-07-15T14:00:00,2011-07-15T14:00:01,[],2011-07-15T14:00:01,133.1,13.8,热带风暴(TS),8,18,东北,15.0,1000,100.0,,,
